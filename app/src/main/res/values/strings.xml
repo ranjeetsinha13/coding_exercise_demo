@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">CodingExercide_MyLivn</string>
+    <!-- Permissions Strings -->
+    <string name="permission_rationale">Write to External Storage permission is needed for core functionality</string>
+    <string name="permission_denied_explanation">Permission was denied, but is needed for core
+        functionality.</string>
+    <string name="ok">OK</string>
+
+    <string name="error_with_fetching_data_message">Something went wrong, please try again later.</string>
+
+    <string name="item_select_message">You have selected the item with identifier %1$s</string>
+    <string name="delete_image">Delete Image</string>
+    <string name="delete_image_confirmation">Do you really want to delete the item with identifier %1$s?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="cancel">Cancel</string>
+    <string name="settings">Settings</string>
+    <string name="add_image">Add Image</string>
+    <string name="add_image_hint">Add image URL here.</string>
+</resources>
